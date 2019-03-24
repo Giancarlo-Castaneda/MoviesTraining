@@ -7,7 +7,7 @@ El proyecto fue desarrollado usando como patrón de diseño MVVM, por lo cual co
 En el módulo Manager existe la clase ConnectionManager.swift encargada de gestionar y revisar la conectividad del dispositivos a internet, además la clase RequestManager.swift contiene la configuración necesaria de la sesión para realizar las peticiones al servidor.
 
 Se encontrarán las siguientes carpetas: 
-  - Utils: Contiene clases con funciones genéricas usadas en la personalización de la interfaz
+  - Utils: Contiene clases con funciones genéricas usadas en la personalización de la interfaz y la clase contenedora de las constantes del proyecto como la url base de los servicios web, de las imagenes y videos usados, además del apikey de usuario para el proyecto.
   - Cells: Contiene las clases correspondientes a las celdas usadas.
   - Strings: Contiene los archivos y clases gestoras de la función multi idioma del app.
   - Adapters: Contiene la clase encargada de controlar las políticas de cache, gestorá del consumo de datos almacenados en la situación de no presentar conexión a la red.

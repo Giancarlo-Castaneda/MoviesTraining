@@ -1,0 +1,18 @@
+/* 
+  Detail.strings
+  iOSRappi-Test
+
+  Created by Giancarlo Castañeda Garcia on 3/24/19.
+  Copyright © 2019 GianC. All rights reserved.
+*/
+
+// This file contains the strings in english related to movie detail
+
+"voteAverague" = "Vote averague: ";
+"votes" = " votes";
+"releaseDate" = "Release date: ";
+"relatedVideos" = "Related videos";
+"productionCompanies" = "Production companies:\n";
+"duration" = "Duration: ";
+"synopsis" = "Synopsis:\n";
+"min" = "min";

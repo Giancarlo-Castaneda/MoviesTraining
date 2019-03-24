@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "Related Videos"; ObjectID = "5mf-53-RJM"; */
+"5mf-53-RJM.text" = "Related Videos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "C1I-kg-IR9"; */
+"C1I-kg-IR9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ELR-JO-vRq"; */
+"ELR-JO-vRq.text" = "Label";
+
+/* Class = "UILabel"; text = "production_companies"; ObjectID = "Eu4-xh-S2T"; */
+"Eu4-xh-S2T.text" = "production_companies";
+
+/* Class = "UILabel"; text = "release_date"; ObjectID = "F12-Gw-swr"; */
+"F12-Gw-swr.text" = "release_date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GEB-CH-odD"; */
+"GEB-CH-odD.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "H3P-H7-Awo"; */
+"H3P-H7-Awo.title" = "Home";
+
+/* Class = "UITextField"; placeholder = "Buscar..."; ObjectID = "JtT-fy-6Te"; */
+"JtT-fy-6Te.placeholder" = "Buscar...";
+
+/* Class = "UILabel"; text = "vote_count"; ObjectID = "Kfz-ip-4Nh"; */
+"Kfz-ip-4Nh.text" = "vote_count";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MyR-wJ-bxz"; */
+"MyR-wJ-bxz.text" = "Label";
+
+/* Class = "UILabel"; text = "vote_average"; ObjectID = "NG7-Ch-PVW"; */
+"NG7-Ch-PVW.text" = "vote_average";
+
+/* Class = "UILabel"; text = "runtime"; ObjectID = "P49-Uq-QVc"; */
+"P49-Uq-QVc.text" = "runtime";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tmv-Zu-cyb"; */
+"Tmv-Zu-cyb.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cod-qi-6VE"; */
+"cod-qi-6VE.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dyL-SV-gP7"; */
+"dyL-SV-gP7.text" = "Label";
+
+/* Class = "UILabel"; text = "status"; ObjectID = "gev-WJ-Hcf"; */
+"gev-WJ-Hcf.text" = "status";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pEH-2r-dLB"; */
+"pEH-2r-dLB.text" = "Label";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "prF-gH-qPc"; */
+"prF-gH-qPc.text" = "title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sfm-yz-Api"; */
+"sfm-yz-Api.text" = "Label";
+
+/* Class = "UILabel"; text = "overview"; ObjectID = "vQ0-dw-tgK"; */
+"vQ0-dw-tgK.text" = "overview";

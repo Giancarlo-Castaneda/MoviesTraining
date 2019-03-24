@@ -1,0 +1,19 @@
+/* 
+  General.strings
+  iOSRappi-Test
+
+  Created by Giancarlo Castañeda Garcia on 3/24/19.
+  Copyright © 2019 GianC. All rights reserved.
+*/
+
+// This file contains the strings in spanish related to general app content
+
+"popular" = "Populares";
+"topRated" = "Mejores";
+"upcoming" = "Próximas";
+
+"search" = "Buscar...";
+"empty" = "Todavía no hay información aquí, por favor intente más tarde.";
+
+"spanish" = "Español";
+"english" = "Inglés";
